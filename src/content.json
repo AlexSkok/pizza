@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "img": "/content/1.png",
+    "title": "Чизбургер - пицца",
+    "size_pizza": [0],
+    "size": [0, 1, 2],
+    "price": 130,
+    "type": "Мясные"
+  },
+  {
+    "id": 2,
+    "img": "/content/2.png",
+    "title": "Сырная",
+    "size_pizza": [0, 1],
+    "size": [1, 2],
+    "price": 120,
+    "type": "Гриль"
+  },
+  {
+    "id": 3,
+    "img": "/content/3.png",
+    "title": "Креветки по-азиатски",
+    "size_pizza": [1],
+    "size": [0, 2],
+    "price": 110,
+    "type": "Мясные"
+  },
+  {
+    "id": 4,
+    "img": "/content/4.png",
+    "title": "Сырный цыпленок",
+    "size_pizza": [0, 1],
+    "size": [1, 2],
+    "price": 115,
+    "type": "Вегетарианская"
+  },
+  {
+    "add": 0,
+    "img": "/content/1.png",
+    "title": "Чизбургер - пицца",
+    "size_pizza": [1],
+    "size": [0, 1, 2],
+    "price": 135,
+    "type": "Закрытые"
+  },
+  {
+    "id": 5,
+    "img": "/content/2.png",
+    "title": "Сырная",
+    "size_pizza": [0, 1],
+    "size": [0, 1],
+    "price": 145,
+    "type": "Гриль"
+  },
+  {
+    "id": 6,
+    "img": "/content/3.png",
+    "title": "Креветки по-азиатски",
+    "size_pizza": [1],
+    "size": [1, 2],
+    "price": 140,
+    "type": "Вегетарианская"
+  },
+  {
+    "id": 7,
+    "img": "/content/4.png",
+    "title": "Сырный цыпленок",
+    "size_pizza": [0, 1],
+    "size": [0, 1, 2],
+    "price": 150,
+    "type": "Острые"
+  },
+  {
+    "id": 8,
+    "img": "/content/1.png",
+    "title": "Чизбургер - пицца",
+    "size_pizza": [1],
+    "size": [0, 1, 2],
+    "price": 160,
+    "type": "Закрытые"
+  },
+  {
+    "id": 9,
+    "img": "/content/2.png",
+    "title": "Сырная",
+    "size_pizza": [0, 1],
+    "size": [0, 1],
+    "price": 120,
+    "type": "Гриль"
+  },
+  {
+    "id": 10,
+    "img": "/content/3.png",
+    "title": "Креветки по-азиатски",
+    "size_pizza": [1],
+    "size": [1, 2],
+    "price": 95,
+    "type": "Вегетарианская"
+  },
+  {
+    "id": 11,
+    "img": "/content/4.png",
+    "title": "Сырный цыпленок",
+    "size_pizza": [0, 1],
+    "size": [0, 1, 2],
+    "price": 105,
+    "type": "Острые"
+  }
+]

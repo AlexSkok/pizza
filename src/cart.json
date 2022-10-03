@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "img": "/content/1.png",
+    "title": "Сырный цыпленок",
+    "size_pizza": "традиционное",
+    "size": "30",
+    "price": 120,
+    "count_pizza": 1
+  },
+  {
+    "id": 2,
+    "img": "/content/2.png",
+    "title": "Креветки по-азиатски",
+    "size_pizza": "тонкое",
+    "size": "40",
+    "price": 120,
+    "count_pizza": 1
+  },
+  {
+    "id": 3,
+    "img": "/content/3.png",
+    "title": "Чизбургер - пицца",
+    "size_pizza": "тонкое",
+    "size": "26",
+    "price": 120,
+    "count_pizza": 1
+  }
+]

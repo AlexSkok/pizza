@@ -1,0 +1,37 @@
+@import '../../index.scss';
+.tab_box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 70px;
+}
+.tab_item {
+  background-color: #f9f9f9;
+  padding: 12px 22px;
+  border-radius: 30px;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 16px;
+  color: #2c2c2c;
+  cursor: pointer;
+}
+.active {
+  background: #282828;
+  color: var(--white);
+}
+.sort {
+  display: flex;
+  & > label {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: 0.015em;
+    color: #2c2c2c;
+    & > select {
+      & > option {
+        padding: 20px;
+        color: #fe5f1e;
+      }
+    }
+  }
+}
